@@ -1,1 +1,2 @@
 
+add HAL library folder
